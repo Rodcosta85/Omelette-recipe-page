@@ -275,6 +275,10 @@ p, li {
     overflow: hidden;
    }
 
+  img {
+    border-radius: 12px;
+  }
+
    #text-section {
     margin-top: 35px;
    }
